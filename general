@@ -40,3 +40,16 @@ HASH CRYPTO | Тулза                         | Что делает          
 | **RsaCtfTool**                | Разносит уязвимые RSA задачки (плохие экспоненты, факторизация, и т.п.). |
 | **sage / sagemath**           | Мощнейшая математика для крипты (алгебра, поля, решатели).               |
 | **factordb.com**              | Онлайн база факторизаций чисел — полезно при RSA.                        |
+
+
+
+
+
+
+
+
+Erika tools
+ida64, radare2, autopsy for reverse engineering
+debugger in Kali — gdbinit, voltron, peda, x64dbg
+aperisolve, stegsnow, silenteye —  steg
+https://gtfobins.github.io/ — handy
