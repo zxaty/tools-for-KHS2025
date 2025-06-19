@@ -1,7 +1,25 @@
-CyberChef
-FeatherDuster
-Hash Extender
-padding-oracle-attacker
-PkCrack
-RSACTFTool
-RSATool
+CyberChef     <pre>   https://gchq.github.io/CyberChef/   </pre>
+FeatherDuster     <pre>  git clone https://github.com/nccgroup/featherduster.git
+cd featherduster
+pip install -r requirements.txt
+python setup.py install  </pre>    https://github.com/nccgroup/featherduster
+Hash Extender    <pre>  apt install hash-extender
+   </pre>
+padding-oracle-attacker   <pre>  git clone https://github.com/BeSafeOnline/padding-oracle-attacker.git
+cd padding-oracle-attacker
+pip install -r requirements.txt
+python3 paddingoracleattacker.py -h
+  </pre>      https://github.com/BeSafeOnline/padding-oracle-attacker
+PkCrack   <pre>  git clone https://github.com/keyj/pc.zip.git
+cd pc.zip/src
+make
+./pkcrack
+  </pre>
+RSACTFTool   <pre>  git clone https://github.com/Ganapati/RsaCtfTool.git
+cd RsaCtfTool
+python3 -m pip install -r requirements.txt
+  </pre>
+RSATool     <pre>  git clone https://github.com/ius/rsatool.git
+cd rsatool
+python3 rsatool.py -h
+  </pre>
