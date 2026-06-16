@@ -21,4 +21,4 @@ python3 -m pip install -r requirements.txt
 RSATool     <pre>  git clone https://github.com/ius/rsatool.git
 cd rsatool
 python3 rsatool.py -h
-  </pre>
+  </pre>https://chatgpt.com/share/6a30b740-3bb8-83eb-904e-e1e7c219b353
